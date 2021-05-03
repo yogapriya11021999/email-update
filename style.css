@@ -1,0 +1,98 @@
+.container-fluid{
+    width: 569px;
+    padding: 20px;
+    background: #FFFFFF;
+    margin: 50px auto;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+    -moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+    -webkit-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22); 
+}
+
+.greetings{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    line-height: 3;
+    font-family: 'Roboto';
+    color: #000000;
+    margin-top: 91px;
+}
+
+.col-3 img{
+    width: 571px;
+    margin-left: -2px;
+}
+
+.col-6 img{
+    width: 584px;
+    margin-left: -8px;
+    position: relative;
+}
+
+.congratulations{
+        margin: 56px 63px 14px 0;
+        object-fit: contain;
+        text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+        font-family: JockeyOne;
+          color: #ffffff;
+        position: absolute;
+  top: 22%;
+  width: 44%;
+}
+
+.name{
+    margin-left: 242px;
+    font-size: 25px;
+    margin-top: 17px;
+    font-weight: bold;
+}
+
+.frame{
+    position: relative;
+    left: 15%;
+    margin-top: 35px;
+}
+
+.msg
+{
+    /*width: 237px; */
+    /* height: 35px; */
+    flex-grow: 0;
+    /* margin: 23.7px 9.8px 1.1px 6.2px; */
+    padding: 3.1px 84.6px 6.7px 126.2px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 500;
+    /* font-stretch: normal; */
+    /* font-style: normal; */
+    line-height: normal;
+    /* letter-spacing: normal; */
+    text-align: center;
+    color: #ee2525;
+    position: absolute;
+    left: 34%;
+    /*top: 95%;*/
+    top: 110%;
+}
+
+.footer{
+    font-size: smaller;
+    color: gray;
+    text-align: center;
+    border-top: 1px solid #bdbbbb;
+    padding-top: 13px;
+    margin-top: 120px;
+}
+
+.line{
+    width: 609px;
+    height: 3px;
+    /* margin: 0 0 23px; */
+    background-color: #f36c37;
+    margin-top: -20px;
+    margin-left: -20px;
+    }
+
+    .image{
+        padding: 10px;
+    }
